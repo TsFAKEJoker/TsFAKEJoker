@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TsFAKEJoker
+- 👋 Hi, I’m Rishabh Goswami.
 - 👀 I’m interested in Cybersecurity and Penetration Testing.
 - 🌱 I’m a beginner and currently learning the basics about Linux and it's working. 
-- 📫 How to reach me: E-Mail me on tsfakejoker@gmail.com
+- 📫 How to reach me: E-Mail me on rishabhgoswami29@gmail.com
 
 <!---
 TsFAKEJoker/TsFAKEJoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

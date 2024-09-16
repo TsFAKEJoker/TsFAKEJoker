@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rishabhgoswami29@gmail.com**
 
-- ⚡ Fun fact **I'm really into the paradoxes related to astronomic physics.**
+- ⚡ Fun fact: **I'm really into the paradoxes related to astronomic physics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
